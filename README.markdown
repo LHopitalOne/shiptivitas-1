@@ -2,28 +2,28 @@
 <a href="https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College%20Students%3A%20Learn%20how%20to%20work%20at%20a%20YC%20startup">
 <img src="https://s3-ap-southeast-2.amazonaws.com/insidesherpa-assets/yc/yc-blade.png"></a>
 <br><br>
-  <a href="https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College%20Students%3A%20Learn%20how%20to%20work%20at%20a%20YC%20startup">
-  <img src="https://s3-ap-southeast-2.amazonaws.com/insidesherpa-assets/yc/workatastartup_logo_orange-c2a27f6374f9395166ee9906e2e0873af835b3c6132ae6aa0543582298567041.svg"></a>
+    <a href="https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College%20Students%3A%20Learn%20how%20to%20work%20at%20a%20YC%20startup">
+    <img src="https://s3-ap-southeast-2.amazonaws.com/insidesherpa-assets/yc/workatastartup_logo_orange-c2a27f6374f9395166ee9906e2e0873af835b3c6132ae6aa0543582298567041.svg"></a>
 </p>
 
 
 <p align='center'> 
-  <b><a href="#task"> Task Overview </a> </b>
-  | 
-  <b><a href="#installation"> Installation </a></b>
-  |
-  <b><a href="https://www.insidesherpa.com/modules/oRMogWRHeewqHzA7u/58dLdeDgbwf9Ste3j"> Link to Module 1 </a></b>
-  |
-  <b><a href="https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College%20Students%3A%20Learn%20how%20to%20work%20at%20a%20YC%20startup" target="_blank"> Link to Y Combinator Program </a></b>
+    <b><a href="#task"> Task Overview </a> </b>
+    | 
+    <b><a href="#installation"> Installation </a></b>
+    |
+    <b><a href="https://www.insidesherpa.com/modules/oRMogWRHeewqHzA7u/58dLdeDgbwf9Ste3j"> Link to Module 1 </a></b>
+    |
+    <b><a href="https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College%20Students%3A%20Learn%20how%20to%20work%20at%20a%20YC%20startup" target="_blank"> Link to Y Combinator Program </a></b>
 
-           
+                     
 </p>
 
 
 # Introduction 
 <p> 
 <b> College Students: 
-  Learn how to work at a Y Combinator startup </b>
+    Learn how to work at a Y Combinator startup </b>
 <br>Train online for the skills Y Combinator startups are looking for. One of the official ways to get recruited into a Y Combinator startup.
 </p>
 
@@ -62,10 +62,10 @@ You will also see any lint errors in the console.
 We have loaded some clients data in Board.js.
 Each client is an object of
 interface Client {
-  id: number,
-  name: string,
-  description: string,
-  status: 'backlog' | 'in-progress' | 'complete,
+    id: number,
+    name: string,
+    description: string,
+    status: 'backlog' | 'in-progress' | 'complete,
 }
 
 <p id="dragula">
